@@ -1,0 +1,16 @@
+C:\Users\Administrator\source\repos\BootCDNAPIDemo\BootCDNAPIDemo\bin\Debug\BootCDNAPIDemo.exe.config
+C:\Users\Administrator\source\repos\BootCDNAPIDemo\BootCDNAPIDemo\bin\Debug\BootCDNAPIDemo.exe
+C:\Users\Administrator\source\repos\BootCDNAPIDemo\BootCDNAPIDemo\bin\Debug\BootCDNAPIDemo.pdb
+C:\Users\Administrator\source\repos\BootCDNAPIDemo\BootCDNAPIDemo\obj\Debug\BootCDNAPIDemo.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\BootCDNAPIDemo\BootCDNAPIDemo\obj\Debug\BootCDNAPIDemo.FrmBaseDocument.resources
+C:\Users\Administrator\source\repos\BootCDNAPIDemo\BootCDNAPIDemo\obj\Debug\BootCDNAPIDemo.FrmMain.resources
+C:\Users\Administrator\source\repos\BootCDNAPIDemo\BootCDNAPIDemo\obj\Debug\BootCDNAPIDemo.Properties.Resources.resources
+C:\Users\Administrator\source\repos\BootCDNAPIDemo\BootCDNAPIDemo\obj\Debug\BootCDNAPIDemo.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\BootCDNAPIDemo\BootCDNAPIDemo\obj\Debug\BootCDNAPIDemo.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\BootCDNAPIDemo\BootCDNAPIDemo\obj\Debug\BootCDNAPIDemo.exe
+C:\Users\Administrator\source\repos\BootCDNAPIDemo\BootCDNAPIDemo\obj\Debug\BootCDNAPIDemo.pdb
+C:\Users\Administrator\source\repos\BootCDNAPIDemo\BootCDNAPIDemo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\source\repos\BootCDNAPIDemo\BootCDNAPIDemo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\source\repos\BootCDNAPIDemo\BootCDNAPIDemo\obj\Debug\BootCDNAPIDemo.csproj.CopyComplete
+C:\Users\Administrator\source\repos\BootCDNAPIDemo\BootCDNAPIDemo\obj\Debug\BootCDNAPIDemo.FrmLibraries.resources
+C:\Users\Administrator\source\repos\BootCDNAPIDemo\BootCDNAPIDemo\obj\Debug\BootCDNAPIDemo.FrmDetailed.resources
